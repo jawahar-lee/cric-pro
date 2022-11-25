@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@800&display=swap');
+
+* {
+  margin: 0%;
+  margin-left: 80px;
+}
+
+.cursor {
+  cursor: pointer;
+}
+
+
+#logo {
+  float: right;
+  margin-right: 50px;
+  margin-top: 20px;
+  height: 50px;
+  display: block;
+}
+
+.top {
+  margin: 0%;
+  height:200px;
+  width: 100%;
+}
+
+.bottom {
+  margin: 0%;
+  height: 525px;
+  width: 100%;
+  background-image: url("https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  position: relative;
+
+}
+
+h1 {
+  font-size: 50px;
+  padding-top: 80px;
+  margin: 0%;
+  font-family: 'Nunito Sans', sans-serif;
+  text-shadow: 3px 3px rgb(168, 174, 180)
+}
+
+h2 {
+  margin: 0%;
+  font-family: 'Nunito Sans', sans-serif;
+  color: gray;
+}
+
+body{
+  position: relative;
+  height: 100%;
+  margin:0%;
+}
+
+h4 {
+  position: absolute;
+  margin: 0%;
+  bottom: 0px;
+}
+
+.lc {
+  margin: 0%;
+}
+
+.cellsl {
+  background-color: white;
+  padding-left: 20px;
+  margin: 0%;
+  width: 200px;
+  height: 43px;
+  border-bottom: 2px rgb(183, 187, 190) solid;
+  display: flex;
+  align-items: center;
+  justify-content:space-between;
+}
+
+.mc {
+  margin: 0%;
+}
+
+.cellsm {
+  background-color: white;
+  margin: 0%;
+  width: 400px;
+  height: 43px;
+  border-bottom: 2px rgb(183, 187, 190) solid;
+  display: flex;
+  align-items: center;
+  justify-content:flex-start;
+  font-size: larger;
+}
+
+.rc {
+  margin: 0%;
+}
+
+.cellsr {
+  background-color: white;
+  margin: 0%;
+  width: 400px;
+  height: 43px;
+  border-bottom: 2px rgb(183, 187, 190) solid;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.lr {
+  margin: 0%;
+  display:flex
+}
+
+.lastrow {
+  background-color: white;
+  margin: 0%;
+  width: 500px;
+  height: 43px;
+  padding-left: 10px;
+  border-bottom: 2px rgb(183, 187, 190) solid;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+#box {
+  margin: 0%;
+  display: flex;
+}
+
+.name {
+  margin: 0%;
+  font-size: large;
+}
+
+
+.cellsm div {
+  margin: 0%;
+  color: gray;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: large;
+  margin-left: 100px;
+}
+
+.header {
+  font-family: 'Nunito Sans', sans-serif;
+  background-color:orangered;
+  color: white;
+}
+
+.s {
+  margin: 0%;
+}
+
+.blue {
+  color: blue;
+}
+
+.blue:hover {
+  color:crimson;
+}
+
+.lastrowex {
+  background-color: white;
+  margin: 0%;
+  padding-left: 10px;
+  width: 500px;
+  height: 43px;
+  border-bottom: 2px rgb(183, 187, 190) solid;
+}
+
+.in {
+  display: inline-block;
+  margin: 0%;
+}
+
+#sehwagimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: 90px;
+  left: 20px;
+}
+
+#sachinimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: 40px;
+  left: 20px;
+}
+
+#gambhirimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: 0px;
+  left: 20px;
+}
+
+#kingimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -45px;
+  left: 20px;
+}
+
+#thalaimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -90px;
+  left: 20px;
+}
+
+#yuvrajimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -140px;
+  left: 20px;
+}
+
+#mriplimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -340px;
+  right: 400px;
+}
+
+#harbhajanimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -340px;
+  right: 300px;
+}
+
+#zaheerimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -340px;
+  right: 200px;
+}
+
+#munafimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -340px;
+  right: 100px;
+}
+
+#sreesanthimg {
+  position: absolute;
+  display: none;
+  margin: 0%;
+  bottom: -340px;
+  right: 0px;
+}
